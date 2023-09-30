@@ -1,5 +1,5 @@
 [main]
-input: CharacterInteraction.scx
+input: Character Interaction.scx
 output: CharacterInteractionEUD.scx
 
 [CharacterInteraction.eps]
